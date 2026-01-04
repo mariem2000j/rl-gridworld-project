@@ -21,7 +21,7 @@ Ce projet implémente un environnement personnalisé en **PyGame** (similaire à
 - **Dynamique stochastique** : 80 % de chance de réussir l’action, 20 % d’action aléatoire
 - Tâche **épisodique** (max 100 pas)
 
-![Exemple de grille](grid_visual.png) *(optionnel – voir ci-dessous)*
+![Exemple de grille](grid_visual.png) 
 
 ---
 
